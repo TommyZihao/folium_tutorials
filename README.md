@@ -1,6 +1,6 @@
 # 同济子豪兄 folium 交互式地图可视化demo
 
-代码教程视频：https://space.bilibili.com/1900783
+代码教程视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=415139
 
 ## 关键demo
 
